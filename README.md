@@ -20,7 +20,7 @@ Things you must before you start working with the project
 * Sublime Text or any text editor
 
 ### Installing
-You can use the `git clone https://github.com/khozema-nullwala/khozema-nullwala.github.io.git` or you can simply download the zip and extract to your folder
+You can use the `git clone https://github.com/ansarifaisal/ansarifaisal.github.io.git` or you can simply download the zip and extract to your folder
 
 ## Testing
 This project is tested against different browsers. For this I have used web server for chrome extension.
